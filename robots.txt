@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jed-ren.github.io/sitemap.xml
